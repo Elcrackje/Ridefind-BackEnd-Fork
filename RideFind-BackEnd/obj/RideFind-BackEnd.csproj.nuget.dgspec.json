@@ -1,18 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\Ridefind-BackEnd GITHUB\\RideFind-BackEnd\\RideFind-BackEnd.csproj": {}
+    "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\RideFind-BackEnd TF\\RideFind-BackEnd\\RideFind-BackEnd\\RideFind-BackEnd.csproj": {}
   },
   "projects": {
-    "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\Ridefind-BackEnd GITHUB\\RideFind-BackEnd\\RideFind-BackEnd.csproj": {
+    "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\RideFind-BackEnd TF\\RideFind-BackEnd\\RideFind-BackEnd\\RideFind-BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\Ridefind-BackEnd GITHUB\\RideFind-BackEnd\\RideFind-BackEnd.csproj",
+        "projectUniqueName": "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\RideFind-BackEnd TF\\RideFind-BackEnd\\RideFind-BackEnd\\RideFind-BackEnd.csproj",
         "projectName": "RideFind-BackEnd",
-        "projectPath": "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\Ridefind-BackEnd GITHUB\\RideFind-BackEnd\\RideFind-BackEnd.csproj",
+        "projectPath": "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\RideFind-BackEnd TF\\RideFind-BackEnd\\RideFind-BackEnd\\RideFind-BackEnd.csproj",
         "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-        "outputPath": "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\Ridefind-BackEnd GITHUB\\RideFind-BackEnd\\obj\\",
+        "outputPath": "E:\\Programacion\\Aplicaciones Web 2024 - 2\\backend\\RideFind Backend\\RideFind-BackEnd TF\\RideFind-BackEnd\\RideFind-BackEnd\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -45,13 +46,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "EntityFrameworkCore.CreatedUpdatedDate": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Humanizer.Core": {
+            "Humanizer": {
               "target": "Package",
               "version": "[2.14.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -59,23 +68,31 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Relational.Design": {
               "target": "Package",
-              "version": "[2.0.0-preview1-final, )"
+              "version": "[1.1.6, )"
             },
             "MySql.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0-preview, )"
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.6.0, )"
             }
           },
           "imports": [

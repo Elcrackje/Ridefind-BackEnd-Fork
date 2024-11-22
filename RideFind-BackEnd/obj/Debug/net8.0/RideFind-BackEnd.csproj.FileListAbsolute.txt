@@ -1,190 +1,121 @@
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\appsettings.Development.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\appsettings.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.exe
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.deps.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.runtimeconfig.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.pdb
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\EntityFrameworkCore.CreatedUpdatedDate.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Google.Protobuf.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Humanizer.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\K4os.Hash.xxHash.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\MySql.Data.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ZstdSharp.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.AssemblyReference.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfoInputs.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfo.cs
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.CoreCompileInputs.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cs
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.build.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.development.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.RideFind-BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\scopedcss\bundle\RideFind-BackEnd.styles.css
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind.99387E77.Up2Date
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\refint\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.pdb
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.genruntimeconfig.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\ref\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\appsettings.Development.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\appsettings.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.exe
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.deps.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.runtimeconfig.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.pdb
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\EntityFrameworkCore.CreatedUpdatedDate.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Google.Protobuf.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Humanizer.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\K4os.Hash.xxHash.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\MySql.Data.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\ZstdSharp.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.AssemblyReference.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfoInputs.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfo.cs
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.CoreCompileInputs.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cs
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.build.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.development.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.RideFind-BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\scopedcss\bundle\RideFind-BackEnd.styles.css
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind.99387E77.Up2Date
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\refint\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.pdb
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.genruntimeconfig.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\ridefindv3\RideFind-BackEnd\obj\Debug\net8.0\ref\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\appsettings.Development.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\appsettings.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.exe
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.deps.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.runtimeconfig.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.pdb
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\EntityFrameworkCore.CreatedUpdatedDate.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Google.Protobuf.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Humanizer.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\K4os.Hash.xxHash.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\MySql.Data.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\ZstdSharp.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.AssemblyReference.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfoInputs.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfo.cs
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.CoreCompileInputs.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cs
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.sourcelink.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.build.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.development.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.RideFind-BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RideFind-BackEnd.props
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\scopedcss\bundle\RideFind-BackEnd.styles.css
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind.99387E77.Up2Date
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\refint\RideFind-BackEnd.dll
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.pdb
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.genruntimeconfig.cache
-E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\Ridefind-BackEnd GITHUB\RideFind-BackEnd\obj\Debug\net8.0\ref\RideFind-BackEnd.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\appsettings.Development.json
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\appsettings.json
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.exe
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.deps.json
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.runtimeconfig.json
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\RideFind-BackEnd.pdb
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\EntityFrameworkCore.CreatedUpdatedDate.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Humanizer.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\MySql.Data.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ZstdSharp.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.AssemblyReference.cache
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfoInputs.cache
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.AssemblyInfo.cs
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.csproj.CoreCompileInputs.cache
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.RideFind-BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.RideFind-BackEnd.props
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RideFind-BackEnd.props
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RideFind-BackEnd.props
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\scopedcss\bundle\RideFind-BackEnd.styles.css
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind.99387E77.Up2Date
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\refint\RideFind-BackEnd.dll
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.pdb
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\RideFind-BackEnd.genruntimeconfig.cache
+E:\Programacion\Aplicaciones Web 2024 - 2\backend\RideFind Backend\RideFind-BackEnd TF\RideFind-BackEnd\RideFind-BackEnd\obj\Debug\net8.0\ref\RideFind-BackEnd.dll
