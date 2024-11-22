@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideFind-BackEnd", "RideFind-BackEnd\RideFind-BackEnd.csproj", "{7372EB05-DFCC-487F-86EB-2069E5E9180C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideFind-BackEnd", "RideFind-BackEnd\RideFind-BackEnd.csproj", "{4B9A6C4E-8247-4604-8292-A03146A3A244}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7372EB05-DFCC-487F-86EB-2069E5E9180C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7372EB05-DFCC-487F-86EB-2069E5E9180C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7372EB05-DFCC-487F-86EB-2069E5E9180C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7372EB05-DFCC-487F-86EB-2069E5E9180C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9A6C4E-8247-4604-8292-A03146A3A244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9A6C4E-8247-4604-8292-A03146A3A244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9A6C4E-8247-4604-8292-A03146A3A244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9A6C4E-8247-4604-8292-A03146A3A244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

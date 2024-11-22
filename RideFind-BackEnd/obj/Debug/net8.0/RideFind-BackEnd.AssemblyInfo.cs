@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RideFind-BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe69b7a57de8fd79e8537dd38acbab09c59d5ef4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10f6e488201e7ab596536acb3ad4e6504a6f5f96")]
 [assembly: System.Reflection.AssemblyProductAttribute("RideFind-BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RideFind-BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
